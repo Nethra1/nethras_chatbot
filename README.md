@@ -1,6 +1,6 @@
-# Specialized LLM - AI Tutor
+# Chatbot with memory
 
-This project contains implementations of an AI tutoring chatbot using Google's Gemini API through the OpenAI-compatible interface.
+This project contains implementations of a chatbot using Google's Gemini API through the OpenAI-compatible interface.
 
 ## Notebooks
 
